@@ -33,6 +33,7 @@ datetime = datetime_match.group(1) if datetime_match else None
 payment_pattern = re.compile(r"Банковская карта:")
 payment_method = "Банковская карта" if payment_pattern.search(text) else None
 
+
 result = {
 	"products": products,
 	"total": total,
