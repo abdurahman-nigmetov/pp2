@@ -1,0 +1,8 @@
+name,surname,phone
+John,Doe,123456789
+Jane,Smith,+7 777 123 45 67
+Ali,Khan,87051234567
+Ivan,Ivanov,8(707)555-44-33
+Test,User,123
+Bad,Phone,abc123
+Empty,,123456
