@@ -1,0 +1,4 @@
+name,surname,email,birthday,group,phone,type
+John,Doe,john@gmail.com,2000-12-21,Friend,87051234567,mobile
+Jane,Smith,jane@mail.com,1999-01-05,Work,87015554433,work
+Ali,Khan,,2001-07-11,Family,87077770000,home
